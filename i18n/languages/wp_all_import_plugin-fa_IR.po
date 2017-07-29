@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WP All Import Pro\n"
-"POT-Creation-Date: 2017-07-27 12:24+0430\n"
-"PO-Revision-Date: 2017-07-27 15:19+0430\n"
+"POT-Creation-Date: 2017-07-29 18:46+0430\n"
+"PO-Revision-Date: 2017-07-29 18:46+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -27,16 +27,16 @@ msgstr "درون ریزی جدید"
 #: actions/admin_menu.php:13 views/admin/import/process.php:71
 #: views/admin/manage/index.php:5
 msgid "Manage Imports"
-msgstr "مدیریت درون ریزی ها "
+msgstr ""
 
 #: actions/admin_menu.php:14 views/admin/settings/index.php:8
 #: views/admin/settings/index.php:66
 msgid "Settings"
-msgstr "تنظیمات"
+msgstr ""
 
 #: actions/admin_menu.php:16
 msgid "History"
-msgstr "تاریخچه"
+msgstr ""
 
 #: actions/admin_menu.php:22 controllers/admin/license.php:18
 #: controllers/admin/settings.php:52 views/admin/import/confirm.php:11
@@ -45,11 +45,11 @@ msgstr "تاریخچه"
 #: views/admin/import/template.php:9 views/admin/manage/index.php:4
 #: views/admin/settings/index.php:7 views/admin/settings/index.php:65
 msgid "WP All Import"
-msgstr "WP All Import"
+msgstr ""
 
 #: actions/admin_menu.php:22
 msgid "All Import"
-msgstr "همه درون ریزی ها"
+msgstr ""
 
 #: actions/admin_notices.php:12
 #, php-format
@@ -57,7 +57,6 @@ msgid ""
 "<b>%s Plugin</b>: Please update your WP All Import WooCommerce add-on to the "
 "latest version"
 msgstr ""
-"<b>%sافزونه</b>: لطفا WP All Import WooCommerce را به آخرین نسخه اضافه کنید"
 
 #: actions/admin_notices.php:39
 #, php-format
@@ -1114,7 +1113,7 @@ msgstr ""
 
 #: controllers/admin/license.php:43
 msgid "Licenses saved"
-msgstr "مجوز ذخیره شده است"
+msgstr ""
 
 #: controllers/admin/manage.php:257
 msgid ""
@@ -1153,7 +1152,7 @@ msgstr[0] ""
 
 #: controllers/admin/settings.php:72
 msgid "License activated."
-msgstr "مجوز فعال شده است"
+msgstr ""
 
 #: controllers/admin/settings.php:96
 msgid "History File Count must be a non-negative integer"
@@ -2220,7 +2219,7 @@ msgstr ""
 #: views/admin/addons/index.php:36 views/admin/addons/index.php:77
 #: views/admin/addons/index.php:82 views/admin/import/index.php:115
 msgid "Download"
-msgstr "دانلود"
+msgstr ""
 
 #: views/admin/addons/index.php:41
 msgid "Purchase & Install"
@@ -2245,7 +2244,7 @@ msgstr ""
 
 #: views/admin/history/index.php:16 views/admin/manage/index.php:27
 msgid "ID"
-msgstr "شناسه"
+msgstr ""
 
 #: views/admin/history/index.php:18
 msgid "Run Time"
@@ -2257,7 +2256,7 @@ msgstr ""
 
 #: views/admin/history/index.php:20 views/admin/manage/index.php:30
 msgid "Summary"
-msgstr "خلاصه"
+msgstr ""
 
 #: views/admin/history/index.php:26
 msgid "Scheduling Status"
@@ -2274,24 +2273,24 @@ msgstr ""
 #: views/admin/history/index.php:36 views/admin/history/index.php:210
 #: views/admin/manage/index.php:44 views/admin/manage/index.php:359
 msgid "Bulk Actions"
-msgstr "فعالیت گروهی"
+msgstr ""
 
 #: views/admin/history/index.php:37 views/admin/history/index.php:212
 #: views/admin/manage/index.php:45 views/admin/manage/index.php:192
 #: views/admin/manage/index.php:361
 msgid "Delete"
-msgstr "حذف"
+msgstr ""
 
 #: views/admin/history/index.php:39 views/admin/history/index.php:218
 #: views/admin/import/element.php:97 views/admin/manage/index.php:47
 #: views/admin/manage/index.php:367
 msgid "Apply"
-msgstr "اجرا"
+msgstr ""
 
 #: views/admin/history/index.php:45 views/admin/manage/index.php:53
 #, php-format
 msgid "Displaying %s&#8211;%s of %s"
-msgstr "نمایش %s&#8211;%s of %s"
+msgstr ""
 
 #: views/admin/history/index.php:92
 msgid "No previous history found."
@@ -2333,7 +2332,7 @@ msgstr ""
 #: views/admin/import/index.php:44 views/admin/import/options.php:19
 #: views/admin/import/process.php:9 views/admin/import/template.php:10
 msgid "Import XML / CSV"
-msgstr "درون ریزی XML / CSV"
+msgstr ""
 
 #: views/admin/import/confirm.php:15 views/admin/import/element.php:12
 #: views/admin/import/index.php:47 views/admin/import/options.php:22
@@ -2404,7 +2403,7 @@ msgstr ""
 
 #: views/admin/import/confirm.php:127
 msgid "Import Summary"
-msgstr "خلاصه درون ریزی ها "
+msgstr ""
 
 #: views/admin/import/confirm.php:133
 #, php-format
@@ -2818,11 +2817,11 @@ msgstr ""
 
 #: views/admin/import/index.php:69
 msgid "First, specify how you want to import your data"
-msgstr "ابتدا، شیوه درون ریزی اطلاعات را مشخص کنید"
+msgstr ""
 
 #: views/admin/import/index.php:71
 msgid "First, specify previously exported file"
-msgstr "اول، فایلی که قبلا برون ریزی شده را مشخص کنید"
+msgstr ""
 
 #: views/admin/import/index.php:72
 msgid ""
@@ -2833,26 +2832,26 @@ msgstr ""
 #: views/admin/import/index.php:76
 #: views/admin/import/options/_import_file.php:74
 msgid "Upload a file"
-msgstr "بارگذاری یک فایل"
+msgstr ""
 
 #: views/admin/import/index.php:80
 #: views/admin/import/options/_import_file.php:78
 msgid "Download from URL"
-msgstr "دانلود از آدرس URL"
+msgstr ""
 
 #: views/admin/import/index.php:84
 #: views/admin/import/options/_import_file.php:82
 msgid "Use existing file"
-msgstr "استفاده از فایل های موجود"
+msgstr ""
 
 #: views/admin/import/index.php:94
 #: views/admin/import/options/_import_file.php:92
 msgid "Click here to select file from your computer..."
-msgstr "برای انتخاب فایل از کامپیوترتان، اینجا را کلیک کنید.."
+msgstr ""
 
 #: views/admin/import/index.php:97
 msgid "Upload Complete"
-msgstr "بارگزاری تکمیل شد"
+msgstr ""
 
 #: views/admin/import/index.php:119
 msgid ""
@@ -2861,15 +2860,11 @@ msgid ""
 "your file has changed, WP All Import can update your site with the changed "
 "data automatically."
 msgstr ""
-"<strong>نکته:</strong> پس از ایجاد این درون ریزی، شما می توانید آن را به "
-"صورت خودکار، در یک برنامه از پیش تعریف شده، با cron jobs برنامه ریزی کنید. "
-"اگر چیزی در پرونده شما تغییر کرده است، WP All Import می تواند سایت شما را به "
-"صورت خودکار با داده های تغییر یافته به روز کند."
 
 #: views/admin/import/index.php:159
 #: views/admin/import/options/_import_file.php:144
 msgid "Select a previously uploaded file"
-msgstr "فایلی که قبلا آپلود شده را انتخاب کنید"
+msgstr ""
 
 #: views/admin/import/index.php:168
 #: views/admin/import/options/_import_file.php:156
@@ -2879,28 +2874,28 @@ msgstr ""
 
 #: views/admin/import/index.php:183
 msgid "Import data from this file into..."
-msgstr "درون ریزی کردن اطلاعات از این فایل به ..."
+msgstr ""
 
 #: views/admin/import/index.php:187
 msgid "New Items"
-msgstr "محصولات جدید"
+msgstr ""
 
 #: views/admin/import/index.php:191
 msgid "Existing Items"
-msgstr "آیتم های موجود"
+msgstr ""
 
 #: views/admin/import/index.php:214
 msgid "Taxonomies"
-msgstr "دسته بندی ها"
+msgstr ""
 
 #: views/admin/import/index.php:218
 #: views/admin/import/options/_settings_template.php:81
 msgid "Users"
-msgstr "کاربران"
+msgstr ""
 
 #: views/admin/import/index.php:244
 msgid "Create new"
-msgstr "ایجاد جدید"
+msgstr ""
 
 #: views/admin/import/index.php:245
 msgid "Import to existing"
@@ -3653,8 +3648,6 @@ msgid ""
 "XMLReader is much faster, but has a bug that sometimes prevents certain "
 "records from being imported with import files that contain special cases."
 msgstr ""
-"XMLReader بسیار سریعتر است، اما دارای یک اشکال است که گاهی اوقات مانع از ثبت "
-"برخی از پرونده ها با فایل های وارد شده حاوی موارد خاص می شود."
 
 #: views/admin/import/options/_settings_template.php:230
 msgid "Friendly Name"
@@ -3918,11 +3911,11 @@ msgstr ""
 
 #: views/admin/import/template.php:161 views/admin/settings/index.php:292
 msgid "Function Editor"
-msgstr "ویرایشگر Function"
+msgstr ""
 
 #: views/admin/import/template.php:171 views/admin/settings/index.php:300
 msgid "Save Functions"
-msgstr "ذخیره Functions"
+msgstr ""
 
 #: views/admin/import/template.php:172 views/admin/settings/index.php:301
 #, php-format
@@ -4176,7 +4169,7 @@ msgstr ""
 #: views/admin/import/template/_featured_template.php:143
 #: views/admin/settings/index.php:145
 msgid "Files"
-msgstr "فايل ها"
+msgstr ""
 
 #: views/admin/import/template/_featured_template.php:145
 msgid ""
@@ -4582,12 +4575,12 @@ msgstr ""
 
 #: views/admin/license/index.php:24
 msgid "Deactivate License"
-msgstr "غیرفعال سازی مجوز"
+msgstr ""
 
 #: views/admin/license/index.php:26 views/admin/settings/index.php:34
 #: views/admin/settings/index.php:261
 msgid "Activate License"
-msgstr "فعال سازی مجوز"
+msgstr ""
 
 #: views/admin/manage/bulk.php:1
 msgid "Bulk Delete Imports"
@@ -4643,7 +4636,7 @@ msgstr ""
 
 #: views/admin/manage/index.php:18 views/admin/manage/index.php:20
 msgid "Search Imports"
-msgstr "جستجوی درون ریزی ها "
+msgstr ""
 
 #: views/admin/manage/index.php:28
 msgid "File"
@@ -4651,7 +4644,7 @@ msgstr ""
 
 #: views/admin/manage/index.php:31
 msgid "Info & Options"
-msgstr "اطلاعات و تنظیمات"
+msgstr ""
 
 #: views/admin/manage/index.php:100
 #, php-format
@@ -4718,15 +4711,15 @@ msgstr ""
 
 #: views/admin/manage/index.php:316 views/admin/manage/scheduling.php:2
 msgid "Cron Scheduling"
-msgstr "برنامه ریزی Cron"
+msgstr ""
 
 #: views/admin/manage/index.php:318
 msgid "History Logs"
-msgstr "تاریخ ورود ها"
+msgstr ""
 
 #: views/admin/manage/index.php:328
 msgid "Run Import"
-msgstr "اجرای درون ریزی"
+msgstr ""
 
 #: views/admin/manage/index.php:330
 msgid "Cancel Cron"
@@ -4830,11 +4823,11 @@ msgstr ""
 
 #: views/admin/settings/index.php:19 views/admin/settings/index.php:246
 msgid "Licenses"
-msgstr "مجوز ها "
+msgstr ""
 
 #: views/admin/settings/index.php:26 views/admin/settings/index.php:253
 msgid "License Key"
-msgstr "کلید مجوز"
+msgstr ""
 
 #: views/admin/settings/index.php:39 views/admin/settings/index.php:266
 msgid ""
@@ -4843,15 +4836,10 @@ msgid ""
 "to 3rd parties. You can get your license key in the <a target=\"_blank\" "
 "href=\"http://www.wpallimport.com/portal\">customer portal</a>."
 msgstr ""
-"می توانید جهت دریافت به روزرسانی های بعدی افزونه، کلید مجوز تهیه و خریداری "
-"کنید. شما می توانید از کلید مجوز خود در تعداد نامحدود وب سایت استفاده کنید. "
-"کلید مجوز خود را به دیگران ندهید. شما می توانید کلید مجوز خود را در <a "
-"target=\"_blank\" href=\"http://www.wpallimport.com/portal\"> پورتال مشتری </"
-"a> دریافت کنید."
 
 #: views/admin/settings/index.php:83
 msgid "Import/Export Templates"
-msgstr "درون ریزی / برون ریزی قالب ها "
+msgstr ""
 
 #: views/admin/settings/index.php:97
 msgid "Delete Selected"
@@ -4867,35 +4855,33 @@ msgstr ""
 
 #: views/admin/settings/index.php:106
 msgid "Import Templates"
-msgstr "درون ریزی قالب ها"
+msgstr ""
 
 #: views/admin/settings/index.php:115
 msgid "Cron Imports"
-msgstr "درون ریزی Cron"
+msgstr ""
 
 #: views/admin/settings/index.php:120
 msgid "Secret Key"
-msgstr "کلید امنیتی"
+msgstr ""
 
 #: views/admin/settings/index.php:123
 msgid "Changing this will require you to re-create your existing cron jobs."
-msgstr "تغییر این گزینه منجر می شود شما مجدد cron jobs خود را ایجاد کنید."
+msgstr ""
 
 #: views/admin/settings/index.php:127
 msgid "Cron Processing Time Limit"
-msgstr "محدودیت زمانی در پردازش Cron"
+msgstr ""
 
 #: views/admin/settings/index.php:130
 msgid ""
 "Maximum execution time for the cron processing script. If this is blank, the "
 "default value of 120 (2 minutes) will be used."
 msgstr ""
-"حداکثر زمان اجرا برای اسکریپت پردازش cron. اگر خالی باشد، مقدار پیش فرض 120 "
-"(2 دقیقه) استفاده می شود."
 
 #: views/admin/settings/index.php:134
 msgid "Cron Sleep"
-msgstr "خواب Cron"
+msgstr ""
 
 #: views/admin/settings/index.php:137
 msgid ""
@@ -4904,18 +4890,14 @@ msgid ""
 "are slowed down by the cron job because they have very minimal processing "
 "power and resources."
 msgstr ""
-"حالت خواب چند ثانیه تعیین شده بین هر پست ایجاد شده،به روز رسانی شده و یا حذف "
-"شده با cron می باشد. برای خواب این کادر را به صورت خالی رها کنید. این گزینه "
-"فقط در سرورهایی که توسط cron job آهسته شده اند، لازم است زیرا آنها قدرت "
-"پردازش و منابع بسیار کمی دارند."
 
 #: views/admin/settings/index.php:150 views/admin/settings/index.php:153
 msgid "Secure Mode"
-msgstr "حالت امن"
+msgstr ""
 
 #: views/admin/settings/index.php:155
 msgid "Randomize folder names"
-msgstr "نام های فولدر تصادفی"
+msgstr ""
 
 #: views/admin/settings/index.php:161
 #, php-format
@@ -4923,70 +4905,62 @@ msgid ""
 "Imported files, chunks, logs and temporary files will be placed in a folder "
 "with a randomized name inside of %s."
 msgstr ""
-"فایل های درون ریزی شده، chunks، ورودها و فایل های موقت در یک پوشه با نام "
-"تصادفی درون %s قرار خواهند گرفت."
 
 #: views/admin/settings/index.php:166
 msgid "Log Storage"
-msgstr "تعداد دفعات ورود"
+msgstr ""
 
 #: views/admin/settings/index.php:169
 msgid "Number of logs to store for each import. Enter 0 to never store logs."
 msgstr ""
-"تعداد دفعات ورود به فروشگاه برای هر درون ریزی. اگر هیچ ورودی انجام نگرفته "
-"است 0 را وارد کنید. "
 
 #: views/admin/settings/index.php:173
 msgid "Clean Up Temp Files"
-msgstr "پاک کردن فایل های موقتی"
+msgstr ""
 
 #: views/admin/settings/index.php:175
 msgid "Clean Up"
-msgstr "پاکسازی"
+msgstr ""
 
 #: views/admin/settings/index.php:176
 msgid ""
 "Attempt to remove temp files left over by imports that were improperly "
 "terminated."
 msgstr ""
-"تلاش برای حذف فایل های باقی مانده از دورن ریزی ای که نادرست به پایان رسید."
 
 #: views/admin/settings/index.php:184
 msgid "Advanced Settings"
-msgstr "تنظیمات پیشرفته"
+msgstr ""
 
 #: views/admin/settings/index.php:189
 msgid "Chunk Size"
-msgstr "سایز تکه (chunk)"
+msgstr ""
 
 #: views/admin/settings/index.php:192
 msgid "Split file into chunks containing the specified number of records."
-msgstr "فایل را به تکه های حاوی تعداد مشخصی از سوابق تقسیم کنید."
+msgstr ""
 
 #: views/admin/settings/index.php:196
 msgid "WP_IMPORTING"
-msgstr "درون ریزی وردپرس"
+msgstr ""
 
 #: views/admin/settings/index.php:200
 msgid "Enable WP_IMPORTING"
-msgstr "فعال سازی درون ریزی وردپرس"
+msgstr ""
 
 #: views/admin/settings/index.php:202
 msgid "Setting this constant avoids triggering pingback."
-msgstr "این تنظیم ثابت است و تغییر آن باعث جلوگیری از پینگ بک می شود."
+msgstr ""
 
 #: views/admin/settings/index.php:206
 msgid "Add Port To URL"
-msgstr "اضافه کردن Port برای URL"
+msgstr ""
 
 #: views/admin/settings/index.php:209
 msgid ""
 "Specify the port number to add if you're having problems continuing to Step "
 "2 and are running things on a custom port. Default is blank."
 msgstr ""
-"اگر شما مشکلاتی در رفتن به مرحله 2 دارید و در حال اجرای چیزهایی در یک پورت "
-"سفارشی هستید، شماره پورت را برای اضافه کردن مشخص کنید. این فیلد به طور پیش "
-"فرض خالی است."
 
 #: views/admin/settings/index.php:216
 msgid "Force Stream Reader"
@@ -4997,20 +4971,16 @@ msgid ""
 "Force WP All Import to use StreamReader instead of XMLReader to parse all "
 "import files"
 msgstr ""
-"Force WP All Import برای استفاده از StreamReader به جای XMLReader به منظور "
-"تجزیه و تحلیل تمام فایل های وارد شده"
 
 #: views/admin/settings/index.php:225
 msgid "Enable Stream Reader"
-msgstr "فعال کردن Stream Reader"
+msgstr ""
 
 #: wp-all-import-pro.php:20
 msgid ""
 "Please de-activate and remove the free version of WP All Import before "
 "activating the paid version."
 msgstr ""
-"لطفا قبل از فعال سازی نسخه پولی، نسخه رایگان WP All Import را غیر فعال کنید "
-"و حذف کنید."
 
 #: wp-all-import-pro.php:340
 #, php-format
@@ -5020,10 +4990,6 @@ msgid ""
 "licence key, please see <a href=\"%s\">details & pricing</a>. If you do have "
 "a license key, you can access it at the <a href=\"%s\">customer portal</a>."
 msgstr ""
-"<strong>مجوز معتبر برای فعال کردن به روزرسانی لازم است - کلید مجوز خود را در "
-"صفحه <a href=\"%s\">مجوز</a> وارد کنید.</strong> اگر کلید مجوز ندارید، لطفا "
-"<a href=\"%s\">جزئیات و قیمت گذاری را مشاهده کنید</a> . اگر کلید مجوز دارید، "
-"می توانید به <a href=\"%s\">پورتال مشتری</a> دسترسی پیدا کنید."
 
 #: wp-all-import-pro.php:850 wp-all-import-pro.php:854
 #, php-format
