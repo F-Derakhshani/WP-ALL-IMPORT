@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WP All Import Pro\n"
 "POT-Creation-Date: 2017-08-02 18:50+0430\n"
-"PO-Revision-Date: 2017-08-02 19:48+0430\n"
+"PO-Revision-Date: 2017-08-02 19:52+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -2886,7 +2886,7 @@ msgstr "موارد موجود"
 
 #: views/admin/import/index.php:214
 msgid "Taxonomies"
-msgstr "دسته بندی ها"
+msgstr "تکسونومی"
 
 #: views/admin/import/index.php:218
 #: views/admin/import/options/_settings_template.php:81
