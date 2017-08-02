@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WP All Import Pro\n"
 "POT-Creation-Date: 2017-08-02 18:50+0430\n"
-"PO-Revision-Date: 2017-08-02 18:51+0430\n"
+"PO-Revision-Date: 2017-08-02 19:10+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -45,7 +45,7 @@ msgstr ""
 #: views/admin/import/template.php:9 views/admin/manage/index.php:4
 #: views/admin/settings/index.php:7 views/admin/settings/index.php:65
 msgid "WP All Import"
-msgstr ""
+msgstr "مدیریت سایت با اکسل"
 
 #: actions/admin_menu.php:22
 msgid "All Import"
@@ -2235,7 +2235,7 @@ msgstr ""
 
 #: views/admin/help/index.php:1
 msgid "WP All Import Help"
-msgstr ""
+msgstr "راهنمای مدیریت سایت با اکسل"
 
 #: views/admin/history/index.php:3 views/admin/history/index.php:5
 #, php-format
@@ -2332,7 +2332,7 @@ msgstr ""
 #: views/admin/import/index.php:44 views/admin/import/options.php:19
 #: views/admin/import/process.php:9 views/admin/import/template.php:10
 msgid "Import XML / CSV"
-msgstr "درون ریزی فایل اکسل (XML / CSV) "
+msgstr "درون ریزی فایل "
 
 #: views/admin/import/confirm.php:15 views/admin/import/element.php:12
 #: views/admin/import/index.php:47 views/admin/import/options.php:22
@@ -2344,7 +2344,7 @@ msgstr ""
 #: views/admin/import/index.php:47 views/admin/import/options.php:22
 #: views/admin/import/process.php:12 views/admin/import/template.php:13
 msgid "Documentation"
-msgstr ""
+msgstr "آموزش استفاده از سیستم مدیریت سایت با اکسل"
 
 #: views/admin/import/confirm.php:45 views/admin/import/options.php:62
 msgid "This URL no longer returns an import file"
@@ -2817,7 +2817,7 @@ msgstr ""
 
 #: views/admin/import/index.php:69
 msgid "First, specify how you want to import your data"
-msgstr ""
+msgstr "با استفاده از دکمه زیر به راحتی وب سایت خود را به روز کنید!"
 
 #: views/admin/import/index.php:71
 msgid "First, specify previously exported file"
@@ -2832,7 +2832,7 @@ msgstr ""
 #: views/admin/import/index.php:76
 #: views/admin/import/options/_import_file.php:74
 msgid "Upload a file"
-msgstr ""
+msgstr "بارگذاری فایل"
 
 #: views/admin/import/index.php:80
 #: views/admin/import/options/_import_file.php:78
