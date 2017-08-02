@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WP All Import Pro\n"
 "POT-Creation-Date: 2017-08-02 18:50+0430\n"
-"PO-Revision-Date: 2017-08-02 19:52+0430\n"
+"PO-Revision-Date: 2017-08-02 20:02+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -1248,7 +1248,7 @@ msgstr ""
 
 #: filters/pmxi_custom_types.php:8
 msgid "WooCommerce Products"
-msgstr ""
+msgstr "محصولات فروشگاه"
 
 #: filters/pmxi_custom_types.php:9
 msgid "WooCommerce Orders"
