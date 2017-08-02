@@ -56,7 +56,7 @@ $.fn.wplupload  = function($options) {
 		
 		$up.bind('UploadProgress', function(up, file) {
 			// Lengthen the progress bar
-			$('#progressbar').html('<span>Uploading</span> ' + file.name + ' ' + file.percent + '%');
+			$('#progressbar').html('<span></span> ' + file.name + ' ' + file.percent + '%');
 			$('#upload_process').progressbar({value:file.percent});
 
 		});
@@ -144,7 +144,7 @@ $.fn.wplupload  = function($options) {
 
 					$('#filepath').val(r.name);
 
-					$('#progressbar').html('<span>Upload Complete</span> - ' + file.name + ' (' + ( (file.size / (1024*1024) >= 1) ? (file.size / (1024*1024)).toFixed(2) + 'mb' : (file.size / (1024)).toFixed(2) + 'kb') + ')');					
+					$('#progressbar').html('<span>آپلود شد</span> - ' + file.name + ' (' + ( (file.size / (1024*1024) >= 1) ? (file.size / (1024*1024)).toFixed(2) + 'mb' : (file.size / (1024)).toFixed(2) + 'kb') + ')');					
 
 					setTimeout(function() {																	
 
