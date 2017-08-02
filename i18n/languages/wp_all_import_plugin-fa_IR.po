@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WP All Import Pro\n"
 "POT-Creation-Date: 2017-08-02 18:50+0430\n"
-"PO-Revision-Date: 2017-08-02 19:10+0430\n"
+"PO-Revision-Date: 2017-08-02 19:48+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -207,7 +207,7 @@ msgid ""
 "checkout/?edd_action=add_to_cart&download_id=1921&edd_options%5Bprice_id"
 "%5D=1\" target=\"_blank\" class=\"upgrade_link\">Purchase the User Import "
 "Add-On</a>."
-msgstr ""
+msgstr "برای خرید با وب سایت  هاوس تماس بگیرید"
 
 #: actions/wp_ajax_nested_xpath.php:51
 msgid "XPath is required"
@@ -2851,7 +2851,7 @@ msgstr ""
 
 #: views/admin/import/index.php:97
 msgid "Upload Complete"
-msgstr ""
+msgstr "بارگزاری تکمیل شد"
 
 #: views/admin/import/index.php:119
 msgid ""
@@ -2874,28 +2874,28 @@ msgstr ""
 
 #: views/admin/import/index.php:183
 msgid "Import data from this file into..."
-msgstr ""
+msgstr "درون ریزی کردن اطلاعات از این فایل به ..."
 
 #: views/admin/import/index.php:187
 msgid "New Items"
-msgstr ""
+msgstr "موارد جدید"
 
 #: views/admin/import/index.php:191
 msgid "Existing Items"
-msgstr ""
+msgstr "موارد موجود"
 
 #: views/admin/import/index.php:214
 msgid "Taxonomies"
-msgstr ""
+msgstr "دسته بندی ها"
 
 #: views/admin/import/index.php:218
 #: views/admin/import/options/_settings_template.php:81
 msgid "Users"
-msgstr ""
+msgstr "کاربران"
 
 #: views/admin/import/index.php:244
 msgid "Create new"
-msgstr ""
+msgstr "&nbsp"
 
 #: views/admin/import/index.php:245
 msgid "Import to existing"
@@ -2903,7 +2903,7 @@ msgstr ""
 
 #: views/admin/import/index.php:248
 msgid "for each record in my data file."
-msgstr ""
+msgstr "اطلاعات در کدام بخش وارد شود"
 
 #: views/admin/import/index.php:249
 msgid "and update some or all of their data."
@@ -2911,17 +2911,17 @@ msgstr ""
 
 #: views/admin/import/index.php:298
 msgid "Select taxonomy to import into..."
-msgstr ""
+msgstr "دسته بندی برای درون ریزی موارد جدید را انتخاب کنید"
 
 #: views/admin/import/index.php:300
 #: views/admin/import/options/_settings_template.php:56
 msgid "Select Taxonomy"
-msgstr ""
+msgstr "انتخاب دسته بندی"
 
 #: views/admin/import/index.php:309
 #: views/admin/import/options/_settings_template.php:151
 msgid "The User Import Add-On is Required to Import Users"
-msgstr ""
+msgstr "سیستم مدیریت فروشگاه با اکسل یک افزونه جدا است "
 
 #: views/admin/import/index.php:310
 #: views/admin/import/options/_settings_template.php:152
@@ -2998,7 +2998,7 @@ msgstr ""
 
 #: views/admin/import/index.php:383
 msgid "Continue to Step 2"
-msgstr ""
+msgstr "رفتن به مرحله 2"
 
 #: views/admin/import/options.php:119
 #: views/admin/import/options/_reimport_taxonomies_template.php:22
@@ -3085,7 +3085,7 @@ msgstr ""
 
 #: views/admin/import/options/_import_file.php:94
 msgid "<span>Upload Complete</span> - "
-msgstr ""
+msgstr "بارگزاری تکمیل شد"
 
 #: views/admin/import/options/_import_file.php:106
 msgid "Upload"
