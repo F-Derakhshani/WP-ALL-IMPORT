@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WP All Import Pro\n"
 "POT-Creation-Date: 2017-08-02 18:50+0430\n"
-"PO-Revision-Date: 2017-08-02 20:02+0430\n"
+"PO-Revision-Date: 2017-08-02 22:04+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -2638,7 +2638,7 @@ msgstr ""
 
 #: views/admin/import/element.php:34 views/admin/import/element.php:221
 msgid "Continue to Step 3"
-msgstr ""
+msgstr "رفتن به مرحله 3"
 
 #: views/admin/import/element.php:47
 msgid "What element are you looking for?"
@@ -2651,7 +2651,7 @@ msgstr ""
 
 #: views/admin/import/element.php:94
 msgid "Set delimiter for CSV fields:"
-msgstr ""
+msgstr "یک جداکننده برای فیلد های CSV ایجاد کنید"
 
 #: views/admin/import/element.php:115
 #, php-format
@@ -2774,7 +2774,7 @@ msgstr ""
 
 #: views/admin/import/element.php:217
 msgid "Back to Step 1"
-msgstr ""
+msgstr "بازگشت به مرحله 1"
 
 #: views/admin/import/evaluate.php:3
 #, php-format
@@ -2899,7 +2899,7 @@ msgstr "&nbsp"
 
 #: views/admin/import/index.php:245
 msgid "Import to existing"
-msgstr ""
+msgstr "&nbsp"
 
 #: views/admin/import/index.php:248
 msgid "for each record in my data file."
@@ -2907,7 +2907,7 @@ msgstr "اطلاعات در کدام بخش وارد شود"
 
 #: views/admin/import/index.php:249
 msgid "and update some or all of their data."
-msgstr ""
+msgstr "اطلاعات در کدام بخش وارد شود"
 
 #: views/admin/import/index.php:298
 msgid "Select taxonomy to import into..."
