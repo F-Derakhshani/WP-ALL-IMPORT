@@ -38,13 +38,12 @@ $l10n = array(
 			<div class="wpallimport-wrapper">	
 				<h2 class="wpallimport-wp-notices"></h2>
 				<div class="wpallimport-header">
-					<div class="wpallimport-logo"></div>
-					<div class="wpallimport-title">
+					<div class="wpallimport-title" style="float:right;">
 						<p><?php _e('WP All Import', 'wp_all_import_plugin'); ?></p>
 						<h2><?php _e('Import XML / CSV', 'wp_all_import_plugin'); ?></h2>					
 					</div>
-					<div class="wpallimport-links">
-						<a href="http://www.wpallimport.com/support/" target="_blank"><?php _e('Support', 'wp_all_import_plugin'); ?></a> | <a href="http://www.wpallimport.com/documentation/" target="_blank"><?php _e('Documentation', 'wp_all_import_plugin'); ?></a>
+					<div class="wpallimport-links pull" style="float:left">
+						<a href="http://docs.websitehous.ir/wp-all-import" target="_blank"><?php _e('Documentation', 'wp_all_import_plugin'); ?></a>
 					</div>
 				</div>			
 
@@ -74,14 +73,6 @@ $l10n = array(
 							<a class="wpallimport-import-from wpallimport-upload-type <?php echo ('upload' == $post['type']) ? 'selected' : '' ?>" rel="upload_type" href="javascript:void(0);">
 								<span class="wpallimport-icon"></span>
 								<span class="wpallimport-icon-label"><?php _e('Upload a file', 'wp_all_import_plugin'); ?></span>
-							</a>
-							<a class="wpallimport-import-from wpallimport-url-type <?php echo 'url' == $post['type'] ? 'selected' : '' ?>" rel="url_type" href="javascript:void(0);">
-								<span class="wpallimport-icon"></span>
-								<span class="wpallimport-icon-label"><?php _e('Download from URL', 'wp_all_import_plugin'); ?></span>
-							</a>
-							<a class="wpallimport-import-from wpallimport-file-type <?php echo 'file' == $post['type'] ? 'selected' : '' ?>" rel="file_type" href="javascript:void(0);">
-								<span class="wpallimport-icon"></span>
-								<span class="wpallimport-icon-label"><?php _e('Use existing file', 'wp_all_import_plugin'); ?></span>
 							</a>
 						</div>
 												
@@ -385,7 +376,6 @@ $l10n = array(
 					
 					<table><tr><td class="wpallimport-note"></td></tr></table>
 				</form>
-				<a href="http://soflyy.com/" target="_blank" class="wpallimport-created-by"><?php _e('Created by', 'wp_all_import_plugin'); ?> <span></span></a>
 			</div>
 		</td>		
 	</tr>
