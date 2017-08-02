@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WP All Import Pro\n"
-"POT-Creation-Date: 2017-07-29 18:46+0430\n"
-"PO-Revision-Date: 2017-07-29 18:46+0430\n"
+"POT-Creation-Date: 2017-08-02 18:50+0430\n"
+"PO-Revision-Date: 2017-08-02 18:51+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: actions/admin_menu.php:12
 msgid "New Import"
-msgstr "درون ریزی جدید"
+msgstr ""
 
 #: actions/admin_menu.php:13 views/admin/import/process.php:71
 #: views/admin/manage/index.php:5
@@ -2332,7 +2332,7 @@ msgstr ""
 #: views/admin/import/index.php:44 views/admin/import/options.php:19
 #: views/admin/import/process.php:9 views/admin/import/template.php:10
 msgid "Import XML / CSV"
-msgstr ""
+msgstr "درون ریزی فایل اکسل (XML / CSV) "
 
 #: views/admin/import/confirm.php:15 views/admin/import/element.php:12
 #: views/admin/import/index.php:47 views/admin/import/options.php:22
