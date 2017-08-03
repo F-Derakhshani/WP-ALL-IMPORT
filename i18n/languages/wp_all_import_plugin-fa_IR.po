@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WP All Import Pro\n"
 "POT-Creation-Date: 2017-08-02 18:50+0430\n"
-"PO-Revision-Date: 2017-08-02 22:04+0430\n"
+"PO-Revision-Date: 2017-08-03 18:22+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -569,7 +569,7 @@ msgstr ""
 #: views/admin/import/evaluate_variations.php:3
 msgid "element"
 msgid_plural "elements"
-msgstr[0] ""
+msgstr[0] "اِلمان"
 
 #: classes/render.php:94 classes/render.php:192
 msgid "more"
@@ -2419,7 +2419,7 @@ msgstr ""
 
 #: views/admin/import/confirm.php:157
 msgid "undefined"
-msgstr ""
+msgstr "تعریف نشده"
 
 #: views/admin/import/confirm.php:160
 #, php-format
@@ -2651,7 +2651,7 @@ msgstr ""
 
 #: views/admin/import/element.php:94
 msgid "Set delimiter for CSV fields:"
-msgstr "یک جداکننده برای فیلد های CSV ایجاد کنید"
+msgstr "یک جداکننده برای فیلد های CSV ایجاد کنید:"
 
 #: views/admin/import/element.php:115
 #, php-format
@@ -2675,7 +2675,7 @@ msgstr ""
 
 #: views/admin/import/element.php:136
 msgid "Add Filtering Options"
-msgstr ""
+msgstr "افزودن فیلتر"
 
 #: views/admin/import/element.php:143 views/admin/import/element.php:195
 msgid "Element"
@@ -2699,7 +2699,7 @@ msgstr ""
 #: views/admin/import/template/_term_meta_template.php:295
 #: views/admin/import/template/_term_meta_template.php:429
 msgid "Value"
-msgstr ""
+msgstr "مقدار"
 
 #: views/admin/import/element.php:151
 msgid "Select Element"
@@ -2797,6 +2797,8 @@ msgstr ""
 #: views/admin/import/evaluate.php:7
 msgid "Click an element to select it, or scroll down to add filtering options."
 msgstr ""
+"با کلیک بر روی هر اِلمان، مورد را انتخاب کنید و یا برای استفاده از گزینه های "
+"فیلترینگ به پایین صفحه بروید"
 
 #: views/admin/import/evaluate.php:9
 #: views/admin/import/evaluate_variations.php:5
@@ -2847,7 +2849,7 @@ msgstr ""
 #: views/admin/import/index.php:94
 #: views/admin/import/options/_import_file.php:92
 msgid "Click here to select file from your computer..."
-msgstr ""
+msgstr "برای انتخاب فایل از کامپیوترتان، اینجا را کلیک کنید.."
 
 #: views/admin/import/index.php:97
 msgid "Upload Complete"
@@ -3762,7 +3764,7 @@ msgstr ""
 
 #: views/admin/import/process.php:31
 msgid "of"
-msgstr ""
+msgstr "از"
 
 #: views/admin/import/process.php:48
 msgid "Import Complete!"
